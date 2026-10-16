@@ -1,0 +1,12 @@
+# OS 垃圾文件
+Thumbs.db
+.DS_Store
+desktop.ini
+
+# 编辑器和 IDE
+.vscode/
+.idea/
+*.swp
+
+# 本地临时文件
+*.log
