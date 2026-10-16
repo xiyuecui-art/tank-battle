@@ -24,7 +24,7 @@ python -m http.server 8000
 # 然后访问 http://localhost:8000
 ```
 
-也可以在线试玩（GitHub Pages）：<https://YOUR_USERNAME.github.io/tank-battle/>
+也可以在线试玩（GitHub Pages）：<https://xiyuecui-art.github.io/tank-battle/>
 
 ## 🕹️ 操作说明
 
